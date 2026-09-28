@@ -11,3 +11,5 @@ In repository Settings → Pages, select **Deploy from a branch**, then **main**
 - Image files: portfolio previews.
 
 The website needs no server or build step. Google Fonts supplies Instrument Serif and Inter. All links use relative asset paths so both user and project Pages URLs work.
+
+Visit to my cv: https://adistriani.github.io/mycv/
